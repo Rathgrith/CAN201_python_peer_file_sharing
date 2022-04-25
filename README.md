@@ -1,4 +1,4 @@
-To use this program to share your files, you have to know the ip address for each of the peers and enter them into the arguments of the other peer.
+To use this program to share your files within the same LAN, you have to know the ip address for each of the peers and enter them into the arguments of the other peer.
 
 e.g. peer1: 1.1.1.1 peer2: 2.2.2.2
 
